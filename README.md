@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shelakeajitnand" target="_blank"><img src="https://img.shields.io/twitter/follow/shelakeajitnand?logo=twitter&style=for-the-badge" alt="shelakeajitnand" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a target="_blank">ashelake.github.io</>
+- 👨‍💻 All of my projects are available at <a href="ashelake.github.io" target="_blank">ashelake.github.io</a>
 
 - 📫 How to reach me **ashelake88@gmail.com**
 
